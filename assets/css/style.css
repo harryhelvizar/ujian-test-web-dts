@@ -1,0 +1,19 @@
+.kolom{
+    padding-top: 100px;
+    text-align: center;
+}
+
+.btn-tambah{
+    color: white;
+}
+
+.kanan h2 {
+    padding-bottom: 20px;
+}
+
+.kolom-kanan {
+    padding-right: 60px;
+}
+/* .border-right {
+    border-right: 2px solid #dee2e6 !important;
+} */
